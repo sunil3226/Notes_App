@@ -40,7 +40,7 @@
             android:id="@+id/deleteButton"
             android:layout_width="24dp"
             android:layout_height="24dp"
-            android:src="@android:drawable/ic_delete"
+            android:src="@android:drawable/ic_menu_delete"
             app:layout_constraintTop_toTopOf="@+id/taskName"
             app:layout_constraintBottom_toBottomOf="@+id/taskName"
             app:layout_constraintEnd_toEndOf="parent"/>
